@@ -22,7 +22,7 @@ resume-project/
 ## How to View the Resume
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/resume-project.git
+   git clone https://github.com/VitaliyPrymak/CV.git
    cd resume-project
    ```
 2. Open `index.html` in any web browser.
